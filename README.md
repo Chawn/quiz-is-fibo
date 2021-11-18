@@ -8,3 +8,5 @@ Please create a web application following below specs.
   - isPrime: calculate whether the input is a prime number, show true in Col3 if the number is prime, and false in the other case
   - IsFibanacci: calculate whether the input is a fibonacci number, show true in Col3 if the number is a fibonacci number, and false in the other case.
 - Whenever the value in input box in column1, or the dropdown in column2 changes, execute the calculation accordingly, and show the result in column 3.
+
+![Question](question.png "Question")
